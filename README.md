@@ -115,6 +115,13 @@ Core interactions include securing the accident scene, calling emergency service
 
 ---
 
+### **4. Collapsible "Arguments Explanation"**
+```markdown
+```bash
+unity-editor -quit -batchmode -projectPath ./MyProject -buildTarget Android -executeMethod BuildScript.PerformBuild
+
+---
+
 ## ⚙️ Installation & Setup
 1. Clone repository:
    ```bash
