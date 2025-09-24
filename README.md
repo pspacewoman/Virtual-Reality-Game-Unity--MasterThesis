@@ -115,10 +115,11 @@ Core interactions include securing the accident scene, calling emergency service
 
 ---
 
-### **4. Collapsible "Arguments Explanation"**
-```markdown
-```bash
-unity-editor -quit -batchmode -projectPath ./MyProject -buildTarget Android -executeMethod BuildScript.PerformBuild
+## 🛠️ Unity Build Command Example
+
+<details> <summary>📌 Alternative Usage: Windows Build</summary>
+unity-editor -quit -batchmode -projectPath ./MyProject -buildTarget Win64 -executeMethod BuildScript.PerformBuild
+</details> ```
 
 ---
 
