@@ -1,10 +1,10 @@
-![Unity](https://img.shields.io/badge/Unity-6.1-black?logo=unity)
+![Unity](https://img.shields.io/badge/Unity-6.0-black?logo=unity)
 ![Thesis](https://img.shields.io/badge/Master's_Thesis-✓-blue)
-![Degree](https://img.shields.io/badge/M.Sc.-Human--Computer--Interaction-green)
+![Degree](https://img.shields.io/badge/MSc.-Human--Computer--Interaction-green)
 ![University](https://img.shields.io/badge/University_of_Siegen-Germany-red)
 ![Year](https://img.shields.io/badge/2025-orange)
 
-# 🚑 VR First Aid Training Prototype – Master’s Thesis Project
+# 🚑 VR First Aid Training Prototype – Master’s Thesis
 
 ## 📌 Overview
 This repository contains the VR prototype developed for my Master’s Thesis in Human-Computer Interaction at the University of Siegen.  
