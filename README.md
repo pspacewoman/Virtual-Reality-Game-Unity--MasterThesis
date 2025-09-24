@@ -1,7 +1,8 @@
-# Virtual Reality-Game-Unity
-# MasterThesis
-# VR Game for First-Aid &amp; Emergency Training
-
+![Unity](https://img.shields.io/badge/Unity-6.1-black?logo=unity)
+![Thesis](https://img.shields.io/badge/Master's_Thesis-✓-blue)
+![Degree](https://img.shields.io/badge/M.Sc.-Human--Computer--Interaction-green)
+![University](https://img.shields.io/badge/University_of_Siegen-Germany-red)
+![Year](https://img.shields.io/badge/2025-orange)
 
 # 🚑 VR First Aid Training Prototype – Master’s Thesis Project
 
