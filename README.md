@@ -94,11 +94,24 @@ Core interactions include securing the accident scene, calling emergency service
 </table>
 
 ---
+
+![Caution](https://img.shields.io/badge/Caution-Important-red?style=for-the-badge&logo=alert)
+
+
+
 <div style="border-left: 4px solid red; padding: 0.5em; background: #1a1a1a; color: white;">
   ⚠️ <strong>Caution</strong><br>
   Accessing the camera may significantly impact performance.  
   Check if alternatives exist before implementing.
 </div>
+
+
+<details>
+<summary>⚠️ Caution</summary>
+
+Accessing the camera may significantly impact performance.  
+Check if alternatives exist before implementing.
+</details>
 
 ---
 
