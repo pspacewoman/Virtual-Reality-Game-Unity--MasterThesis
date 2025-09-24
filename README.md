@@ -94,6 +94,13 @@ Core interactions include securing the accident scene, calling emergency service
 </table>
 
 ---
+<div style="border-left: 4px solid red; padding: 0.5em; background: #1a1a1a; color: white;">
+  ⚠️ <strong>Caution</strong><br>
+  Accessing the camera may significantly impact performance.  
+  Check if alternatives exist before implementing.
+</div>
+
+---
 
 ## ⚙️ Installation & Setup
 1. Clone repository:
