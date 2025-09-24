@@ -82,6 +82,19 @@ Core interactions include securing the accident scene, calling emergency service
 
 ---
 
+<table>
+  <tr>
+    <td>
+      <video src="video1.mp4" width="400" controls></video>
+    </td>
+    <td>
+      <video src="video2.mp4" width="400" controls></video>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ⚙️ Installation & Setup
 1. Clone repository:
    ```bash
