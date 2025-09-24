@@ -15,6 +15,12 @@ Core interactions include securing the accident scene, calling emergency service
 
 ---
 
+| 3. 📱 QR Code Tracking | 4. 🎨 Shader Samples |
+|------------------------|----------------------|
+| [![QR Code Tracking](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>) | [![Shader Samples](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>) |
+
+---
+
 ## 🎥 Demo & Media
 - 🎬 [Video Demo on YouTube](#) *(add link)*  
 - 📸 Screenshots:  
