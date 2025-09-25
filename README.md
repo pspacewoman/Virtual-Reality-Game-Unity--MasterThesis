@@ -13,6 +13,8 @@ The project explores the potential of **Virtual Reality (VR)** as a training too
 Using **Unity 6.1 (URP)** and deployed on **Meta Quest 3**, the prototype simulates an urban road accident scenario where players act as first responders.  
 Core interactions include securing the accident scene, calling emergency services, and assessing the victim.  
 
+<img width="1280" height="600" alt="Pic1" src="https://github.com/user-attachments/assets/213c97d0-59cd-464a-972b-dfc02b7d061f" />
+
 ---
 
 | 3. 📱 QR Code Tracking | 4. 🎨 Shader Samples |
