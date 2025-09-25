@@ -18,11 +18,9 @@ Core interactions include securing the accident scene, calling emergency service
 ## 🎥 Media
 - 🎬 [Troubleshooting Video on YouTube](#) *(https://www.youtube.com/@Thefoundergirl/videos)*
 
-| Pink Shader (Rendering) Problem  | XR Interaction Toolkit  |
+| Pink Shader (Rendering) Problem | XR Interaction Toolkit |
 |------------------------|----------------------|
-| [![QR Code Tracking](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=bBOyEanvnaA) | [![Shader Samples](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=v-vukP-D3Bs) |
-
-
+| <img width="500" height="700" alt="Screenshot 2025-09-25 at 03 22 39" src="https://github.com/user-attachments/assets/5ef0256b-1805-41ed-ac1e-a51154075d14" />(https://www.youtube.com/watch?v=bBOyEanvnaA) | <img width="500" height="600" alt="Screenshot 2025-09-25 at 03 26 31" src="https://github.com/user-attachments/assets/817be878-a7b1-4d48-9721-1033628c74e9" /> (https://www.youtube.com/watch?v=v-vukP-D3Bs) |
   
 - 📸 Screenshots:  
   - Accident scene  
@@ -108,25 +106,6 @@ Core interactions include securing the accident scene, calling emergency service
 
 ---
 
-<div style="border-left: 4px solid red; padding: 0.5em; background: #1a1a1a; color: white;">
-  ⚠️ <strong>Caution</strong><br>
-  Accessing the camera may significantly impact performance.  
-  Check if alternatives exist before implementing.
-</div>
-
-<div style="border-left: 4px solid blue; padding: 0.5em; background: #1a1a1a; color: white;">
-  ⚠️ <strong>Note</strong><br>
-  Accessing the camera may significantly impact performance.  
-  Check if alternatives exist before implementing.
-</div>
-
-<div style="border-left: 4px solid yellow; padding: 0.5em; background: #1a1a1a; color: white;">
-  ⚠️ <strong>Instructions</strong><br>
-  Accessing the camera may significantly impact performance.  
-  Check if alternatives exist before implementing.
-</div>
-
----
 
 ## 🛠️ Unity Build Command Example
 
@@ -140,3 +119,11 @@ unity-editor -quit -batchmode -projectPath ./MyProject -buildTarget Win64 -execu
 1. Clone repository:
    ```bash
    git clone https://github.com/username/repo-name.git
+
+   <div style="border-left: 4px solid red; padding: 0.5em; background: #1a1a1a; color: white;">
+  ⚠️ <strong>Update</strong><br>
+  New Information coming up...
+</div>
+
+
+---
