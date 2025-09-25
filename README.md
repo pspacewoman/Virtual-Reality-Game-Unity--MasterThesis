@@ -13,23 +13,34 @@ The project explores the potential of **Virtual Reality (VR)** as a training too
 Using **Unity 6.1 (URP)** and deployed on **Meta Quest 3**, the prototype simulates an urban road accident scenario where players act as first responders.  
 Core interactions include securing the accident scene, calling emergency services, and assessing the victim.  
 
-<img width="1280" height="600" alt="Pic1" src="https://github.com/user-attachments/assets/213c97d0-59cd-464a-972b-dfc02b7d061f" />
-
 ---
 
-| 3. 📱 QR Code Tracking | 4. 🎨 Shader Samples |
+## 🎥 Media
+- 🎬 [Troubleshooting Video on YouTube](#) *(https://www.youtube.com/@Thefoundergirl/videos)*
+
+| Pink Shader (Rendering) Problem  | XR Interaction Toolkit  |
 |------------------------|----------------------|
-| [![QR Code Tracking](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>) | [![Shader Samples](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>) |
+| [![QR Code Tracking](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=bBOyEanvnaA) | [![Shader Samples](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=v-vukP-D3Bs) |
 
----
 
-## 🎥 Demo & Media
-- 🎬 [Video Demo on YouTube](#) *(add link)*  
+  
 - 📸 Screenshots:  
   - Accident scene  
   - Safety triangle placement  
   - Emergency call UI  
-  - Score/feedback screen  
+  - Score/feedback screen
+ 
+  - Prototype Screen
+ 
+  <table>
+  <tr>
+    <td><img width="600" height="1400" alt="Screenshot 2025-07-09 at 21 22 49" src="https://github.com/user-attachments/assets/fed56e1c-7f5f-4b3e-854a-259a78563466" /></td>
+    <td><img width="600" height="1400" alt="Screenshot 2025-07-10 at 12 59 11" src="https://github.com/user-attachments/assets/4260fabe-511f-429a-881a-50b6d1f6ece6" /></td>
+  </tr>
+</table>
+
+
+
 
 ---
 
