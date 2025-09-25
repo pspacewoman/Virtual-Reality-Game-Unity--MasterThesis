@@ -6,6 +6,8 @@
 
 # 🚑 VR First Aid Training Prototype – Master’s Thesis
 
+##**Emergency Quest VR**
+
 ## 📌 Overview
 This repository contains the VR prototype developed for my Master’s Thesis in Human-Computer Interaction at the University of Siegen.  
 The project explores the potential of **Virtual Reality (VR)** as a training tool for public first-aid education.  
